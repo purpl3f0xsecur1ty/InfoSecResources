@@ -19,18 +19,27 @@ __**Scripting:**__
 [Python 3](<https://www.codecademy.com/learn/learn-python-3>)  
 
 __**Penetration Testing**__  
-[Web Application Pentesting (Free but requires Burp Suite Pro, which is not)](<https://portswigger.net/web-security>)  
+[Web Application Pentesting (Free but requires Burp Suite Pro, which is not free. A valid business email can request a free trial.)](<https://portswigger.net/web-security>)  
 
 ---
 
 ## Paid
 __**Network Penetration testing**__  
 [Offsec Fundamentals - $799/year](<https://www.offsec.com/products/fundamentals/>)  
-[PEN-200/OSCP - $1599](<https://www.offsec.com/courses/pen-200/>)  
-[PEN-300/OSEP - $1599](<https://www.offsec.com/courses/pen-300/>)  
+[PEN-200/OSCP - $1599/90 days or $2499/year](<https://www.offsec.com/courses/pen-200/>)  
+[PEN-300/OSEP - $1599/90 days or $2499/year](<https://www.offsec.com/courses/pen-300/>)  
+
 __**Web Application Security**__  
-[WEB-200/OSWA - $1599](<https://www.offsec.com/courses/web-200/>)  
-[WEB-300/OSWE - $1599](<https://www.offsec.com/courses/web-300/>)  
+[WEB-200/OSWA - $1599/90 days or $2499/year](<https://www.offsec.com/courses/web-200/>)  
+[WEB-300/OSWE - $1599/90 days or $2499/year](<https://www.offsec.com/courses/web-300/>)  
+
+__**Blue Team**__  
+[SOC-200/OSDA - $1599/90 days or $2499/year](<https://www.offsec.com/courses/soc-200/>)  
+
+__**Reverse Engineering/Exploit Development**__  
+[EXP-301/OSED (Windows) - $1599/90 days or $2499/year](<https://www.offsec.com/courses/exp-301/>)  
+[EXP-312/OSMR (MacOS) - $1599/90 days or $2499/year](<https://www.offsec.com/courses/exp-312/>)  
+
 __**Mixed pentesting/blue team**__  
 [TryHackMe (Some free rooms, some need subscription) - $14/month](<https://tryhackme.com/>)  
 
