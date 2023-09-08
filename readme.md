@@ -5,16 +5,23 @@ __**Computing, Windows, Linux:**__
 [A+ 1101 videos from Professor Messer](<https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/>)  
 [A+ 1102 videos from Professor Messer](<https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/>)  
 [Linux training](<https://linuxjourney.com/>)  
+
 __**Networking:**__  
 [Network+ videos from Professor Messer](<https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/>)  
+
 __**Basic Security:**__  
 [Security+ videos from Professor Messer](<https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/>)  
-[Professor Messor also has a YouTube where he does live study group sessions](<https://www.youtube.com/@professormesser>)
+[Professor Messor also has a YouTube where he does live study group sessions](<https://www.youtube.com/@professormesser>)  
+
 __**Scripting:**__  
 [PowerShell](<https://learn.microsoft.com/en-us/training/modules/script-with-powershell/>)  
 [Bash Scripting](<https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/>)  
 [Python 3](<https://www.codecademy.com/learn/learn-python-3>)  
+
+__**Penetration Testing**__  
 [Web Application Pentesting (Free but requires Burp Suite Pro, which is not)](<https://portswigger.net/web-security>)  
+
+---
 
 ## Paid
 __**Network Penetration testing**__  
