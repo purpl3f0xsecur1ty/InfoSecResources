@@ -1,4 +1,4 @@
-# Basics to learn  before hacking
+# This is a list of free and paid resources for those who are looking to get into information security and penetration testing but don't know where to start.
 ---
 ## Free
 __**Computing, Windows, Linux:**__  
