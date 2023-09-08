@@ -47,8 +47,8 @@ __**Mixed pentesting/blue team**__
 
 # Useful YouTube Channels 
 ---
-[IppSec - Well-explained HackTheBox solutions; blue teamer with lots of pentesting experience](<https://www.youtube.com/@ippsec>)  
-[Tib3rius - Well-explained HackTheBox/TryHackMe solutions, web application pentesting mentoring; Pentester for over 8 years](<https://www.youtube.com/@Tib3rius>)  
-[Alh4zr3d - Well-explained HTB/THM/Offsec Proving grounds solutions, maldev; Pentester and red-teamer for several years](<https://www.youtube.com/@alh4zr3d3/>)  
-[CyberSecurityMeg - Tips on working in security from a defensive perspective; Incident responder for several years](<https://www.youtube.com/@CybersecurityMeg/>)  
-[CWinfosec - Interviews with career penetration testers and red-teamers; Pentester and red-teamer for several years](<https://www.youtube.com/@cwinfosec/>)  
+[IppSec](<https://www.youtube.com/@ippsec>) - Well-explained HackTheBox solutions; blue teamer with lots of pentesting experience.  
+[Tib3rius](<https://www.youtube.com/@Tib3rius>) - Well-explained HackTheBox/TryHackMe solutions, web application pentesting mentoring; Pentester for over 8 years.  
+[Alh4zr3d](<https://www.youtube.com/@alh4zr3d3/>) - Well-explained HTB/THM/Offsec Proving grounds solutions, maldev; Pentester and red-teamer for several years.  
+[CyberSecurityMeg](<https://www.youtube.com/@CybersecurityMeg/>) - Tips on working in security from a defensive perspective; Incident responder for several years.  
+[CWinfosec](<https://www.youtube.com/@cwinfosec/>) - Interviews with career penetration testers and red-teamers; Pentester and red-teamer for several years.  
