@@ -4,7 +4,7 @@
 __**Computing, Windows, Linux:**__  
 [A+ 1101 videos from Professor Messer](<https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/>)  
 [A+ 1102 videos from Professor Messer](<https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/>)  
-[Linux training](<https://linuxjourney.com/>)  
+[Linux Journey](<https://linuxjourney.com/>)  
 
 __**Networking:**__  
 [Network+ videos from Professor Messer](<https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/>)  
@@ -19,7 +19,7 @@ __**Scripting:**__
 [Python 3](<https://www.codecademy.com/learn/learn-python-3>)  
 
 __**Penetration Testing**__  
-[Portswigger Academy (Free but requires Burp Suite Pro, which is not free. A valid business email can request a free trial.)](<https://portswigger.net/web-security>)  
+[Portswigger Academy)(<https://portswigger.net/web-security>) - (Free but requires Burp Suite Pro, which is not free. A valid business email can request a free trial.)
 
 ---
 
