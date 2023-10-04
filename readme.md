@@ -19,7 +19,8 @@ __**Scripting:**__
 [Python 3](<https://www.codecademy.com/learn/learn-python-3>)  
 
 __**Penetration Testing**__  
-[Portswigger Academy)(<https://portswigger.net/web-security>) - (Free but requires Burp Suite Pro, which is not free. A valid business email can request a free trial.)
+[Portswigger Academy](<https://portswigger.net/web-security>)  
+(Free but requires Burp Suite Pro, which is not free. A valid business email can request a free trial.)
 
 ---
 
