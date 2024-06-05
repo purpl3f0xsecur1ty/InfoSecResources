@@ -1,4 +1,4 @@
-### This is a list of free and paid resources for those who are looking to get into information security and penetration testing but don't know where to start. This list is subject to change/updates over time.
+### This is a list of free resources for those who are looking to get into information security and penetration testing but don't know where to start. This list is subject to change/updates over time.
 ---
 ## Free
 __**Computing, Windows, Linux:**__  
@@ -23,28 +23,6 @@ __**Penetration Testing**__
 (Free but requires Burp Suite Pro, which is not free. A valid business email can request a free trial.)
 
 ---
-
-## Paid
-__**Network Penetration testing**__  
-[Offsec Fundamentals - $799/year](<https://www.offsec.com/products/fundamentals/>)  
-[PEN-200/OSCP - $1599/90 days or $2499/year](<https://www.offsec.com/courses/pen-200/>)  
-[PEN-300/OSEP - $1599/90 days or $2499/year](<https://www.offsec.com/courses/pen-300/>)  
-
-__**Web Application Security**__  
-[WEB-200/OSWA - $1599/90 days or $2499/year](<https://www.offsec.com/courses/web-200/>)  
-[WEB-300/OSWE - $1599/90 days or $2499/year](<https://www.offsec.com/courses/web-300/>)  
-
-__**Blue Team**__  
-[SOC-200/OSDA - $1599/90 days or $2499/year](<https://www.offsec.com/courses/soc-200/>)  
-
-__**Reverse Engineering/Exploit Development**__  
-[EXP-301/OSED (Windows) - $1599/90 days or $2499/year](<https://www.offsec.com/courses/exp-301/>)  
-[EXP-312/OSMR (MacOS) - $1599/90 days or $2499/year](<https://www.offsec.com/courses/exp-312/>)  
-
-__**Mixed pentesting/blue team**__  
-[TryHackMe (Some free rooms, some need subscription) - $14/month](<https://tryhackme.com/>)  
-
-
 
 # Useful YouTube Channels 
 ---
