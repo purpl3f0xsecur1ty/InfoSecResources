@@ -20,7 +20,7 @@ __**Scripting:**__
 
 __**Penetration Testing**__  
 [Portswigger Academy](<https://portswigger.net/web-security>)  
-(Free but requires Burp Suite Pro, which is not free. A valid business email can request a free trial.)
+(Free but some exercises may require Burp Suite Pro, which is not free. A valid business email can request a free trial.)
 
 ---
 
